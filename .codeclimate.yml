@@ -7,4 +7,4 @@ plugins:
       file_extensions: "php"
       encoding: utf-8
       standard: "MEQP2"
-      ignore_warnings: true
+      ignore_warnings: false
