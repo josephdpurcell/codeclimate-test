@@ -1,0 +1,10 @@
+---
+version: "2"
+plugins:
+  phpcodesniffer:
+    enabled: true
+    config:
+      file_extensions: "php"
+      encoding: utf-8
+      standard: "MEQP2"
+      ignore_warnings: true
